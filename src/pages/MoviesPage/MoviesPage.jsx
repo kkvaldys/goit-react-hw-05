@@ -2,7 +2,7 @@ import { useSearchParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { searchMovies } from "../../components/movies-api";
 import MovieSearcher from "../../components/MovieSearcher/MovieSearcher";
-import MoviesList from "../../components/MoviesList/MoviesList";
+import MoviesList from "../../components/MoviesList/MovieList";
 import css from "./MoviesPage.module.css";
 
 export default function MoviesPage() {

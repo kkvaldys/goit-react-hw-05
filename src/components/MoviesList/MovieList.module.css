@@ -20,13 +20,13 @@
 }
 
 .link:hover {
-  color: blue;
+  color: orange;
 }
 
 .link:visited {
-  color: rgb(9, 9, 158);
+  color: #4d5ae5;
 }
 
 .link:visited:hover {
-  color: blue;
+  color: orange;
 }
